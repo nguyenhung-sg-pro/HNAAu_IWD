@@ -57,7 +57,7 @@ class Program
         Print(data);
         timing.Stop();
         Console.WriteLine($"\r\nExecution time: {timing.Duration.Ticks} (ticks) = {timing.Duration.Milliseconds} (ms)");
-        Console.ReadKey();
+        Console.ReadLine();
     }
     static void Build(int[] array, int size)
     {

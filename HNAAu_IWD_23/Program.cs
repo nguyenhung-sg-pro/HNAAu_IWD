@@ -1,4 +1,4 @@
-﻿class Program
+﻿partial class Program
 {
     //Đệ quy đuôi
     //Tính tổng từ 1 đến n
@@ -47,7 +47,7 @@
             { 1, 2, 3 },
             { 4, 5, 6 },
             { 7, 8, 9 },
-             //{ 2, 38, 49 }
+            { 2, 38, 49 }
         };
         DuyetMang(matrix, 0, 0);
         Console.ReadLine();

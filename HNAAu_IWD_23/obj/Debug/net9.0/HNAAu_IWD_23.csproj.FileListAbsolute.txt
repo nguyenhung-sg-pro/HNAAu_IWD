@@ -12,3 +12,4 @@ D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_23\obj\Debug\net9.0
 D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_23\obj\Debug\net9.0\HNAAu_IWD_23.pdb
 D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_23\obj\Debug\net9.0\HNAAu_IWD_23.genruntimeconfig.cache
 D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_23\obj\Debug\net9.0\ref\HNAAu_IWD_23.dll
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_23\obj\Debug\net9.0\HNAAu_IWD_23.sourcelink.json
