@@ -52,6 +52,6 @@ class Program
         Console.WriteLine($"Fibonacci cua {n} la: {Fibonacci(n)}");
         Console.WriteLine($"{n} la so chan: {IsEven(n)}");
         Console.WriteLine($"{n} la so le: {IsOdd(n)}");
-        Console.ReadKey();
+        Console.ReadLine();
     }
 }
