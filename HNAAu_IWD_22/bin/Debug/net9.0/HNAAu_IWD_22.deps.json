@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HNAAu_IWD_22/1.0.0": {
+        "runtime": {
+          "HNAAu_IWD_22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HNAAu_IWD_22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

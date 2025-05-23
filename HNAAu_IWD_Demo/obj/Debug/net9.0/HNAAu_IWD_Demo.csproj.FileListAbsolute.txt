@@ -1,0 +1,15 @@
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\bin\Debug\net9.0\HNAAu_IWD_Demo.exe
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\bin\Debug\net9.0\HNAAu_IWD_Demo.deps.json
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\bin\Debug\net9.0\HNAAu_IWD_Demo.runtimeconfig.json
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\bin\Debug\net9.0\HNAAu_IWD_Demo.dll
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\bin\Debug\net9.0\HNAAu_IWD_Demo.pdb
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.AssemblyInfoInputs.cache
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.AssemblyInfo.cs
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.csproj.CoreCompileInputs.cache
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.sourcelink.json
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.dll
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\refint\HNAAu_IWD_Demo.dll
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.pdb
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\HNAAu_IWD_Demo.genruntimeconfig.cache
+D:\Data\WorkingCopy\Learning C#\HNAAu_CTDL_GT_DEMO\HNAAu_IWD_Demo\obj\Debug\net9.0\ref\HNAAu_IWD_Demo.dll
