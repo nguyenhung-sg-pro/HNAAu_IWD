@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HNAAu_IWD_24")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad26a0ac024c7462e78a5b3840a22ff07ca9f02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+015a45b694b68bc837e47500086f947ec5c6af7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HNAAu_IWD_24")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HNAAu_IWD_24")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
